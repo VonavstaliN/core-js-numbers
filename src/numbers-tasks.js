@@ -198,6 +198,7 @@ function roundToPowerOfTen(num, pow) {
  *   17 => true
  */
 function isPrime(n) {
+  return n;
 }
 
 /**
